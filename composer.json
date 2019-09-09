@@ -1,0 +1,16 @@
+{
+  "name": "lgdz/tree",
+  "version": "0.1",
+  "description": "data tree",
+  "type": "library",
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "lgdz\\": "src"
+    }
+  }
+}
